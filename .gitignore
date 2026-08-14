@@ -1,0 +1,12 @@
+bin/
+obj/
+
+.vs/
+.vscode/
+*.user
+
+*.log/
+*.temp/
+
+.DS_Store
+thumbs.db

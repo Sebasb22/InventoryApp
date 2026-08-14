@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  
+
+  <AssemblyName>inventoryApp</AssemblyName>
+  <RootNamespace>inventoryApp</RootNamespace>
+  <version>1.0.1</version>
+  <Description>Inventory Management Application</Description>
+
+  </PropertyGroup>
+
+</Project>
