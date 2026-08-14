@@ -7,3 +7,4 @@ var version = assembly.GetName().Version;
 
 Console.WriteLine("Hello, World!");
 Console.WriteLine($"Inventory Management Application Version: {version}");
+Console.WriteLine("subida del project a git");
